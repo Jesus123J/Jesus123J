@@ -29,7 +29,3 @@ const charles = {
 </a>
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
-
----
-
-⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
