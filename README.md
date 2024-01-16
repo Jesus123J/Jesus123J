@@ -5,7 +5,7 @@
 
 <div align="center">
  
- ***⚡Hi, I'm Thiagp***
+ ***⚡Hi, I'm Thiago***
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
