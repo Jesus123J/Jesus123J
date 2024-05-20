@@ -1,93 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Animación de Persona Saltando</title>
-<style>
-    .person-container {
-        position: relative;
-        width: 100px;
-        height: 200px;
-        animation: jump 1s infinite alternate;
-    }
 
-    .person {
-        position: absolute;
-        bottom: 0;
-        left: 50%;
-        transform: translateX(-50%);
-        width: 50px;
-        height: 100px;
-        background-color: #3498db;
-        border-radius: 50%;
-        animation: jump-legs 1s infinite alternate;
-    }
-
-    .person::before,
-    .person::after {
-        content: '';
-        position: absolute;
-        width: 20px;
-        height: 30px;
-        background-color: #2ecc71;
-        border-radius: 50%;
-        bottom: 100%;
-    }
-
-    .person::before {
-        left: 15%;
-        transform-origin: bottom right;
-        animation: jump-arm1 1s infinite alternate;
-    }
-
-    .person::after {
-        right: 15%;
-        transform-origin: bottom left;
-        animation: jump-arm2 1s infinite alternate;
-    }
-
-    @keyframes jump {
-        0%, 100% {
-            transform: translateY(0);
-        }
-        50% {
-            transform: translateY(-50px);
-        }
-    }
-
-    @keyframes jump-legs {
-        0%, 100% {
-            transform: scaleY(1);
-        }
-        50% {
-            transform: scaleY(0.8);
-        }
-    }
-
-    @keyframes jump-arm1 {
-        0%, 100% {
-            transform: rotate(0);
-        }
-        50% {
-            transform: rotate(-45deg);
-        }
-    }
-
-    @keyframes jump-arm2 {
-        0%, 100% {
-            transform: rotate(0);
-        }
-        50% {
-            transform: rotate(45deg);
-        }
-    }
-</style>
-</head>
-<body>
-<div class="person-container">
-    <div class="person"></div>
-</div>
     <br/>
 <div align="center" >
     <h1 > ***⚡Hi, I'm Thiago***</h1>
@@ -99,8 +10,20 @@
     
 </div>
 <br/>
-</body>
-</html>
+<div class="avatar-container" style="position: relative; width: 100px; height: 100px; animation: jump 1s infinite alternate;">
+    <div class="avatar" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 60px; height: 60px; background-image: url('ruta/a/tu/imagen.png'); background-size: cover; border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); animation: jump 1s infinite alternate;"></div>
+</div>
+
+<style>
+    @keyframes jump {
+        0%, 100% {
+            transform: translateY(0);
+        }
+        50% {
+            transform: translateY(-20px);
+        }
+    }
+</style>
 
 
 
