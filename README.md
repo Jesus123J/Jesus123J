@@ -10,8 +10,7 @@
     
 </div>
 <br/>
-<style>
-    .person-container {
+<div class="person-container" style = " .person-container {
         position: relative;
         width: 100px;
         height: 200px;
@@ -87,10 +86,6 @@
         50% {
             transform: rotate(45deg);
         }
-    }
-</style>
-</head>
-<body>
-<div class="person-container">
+    }">
     <div class="person"></div>
 </div>
