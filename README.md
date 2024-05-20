@@ -1,16 +1,11 @@
-
-<br/>
-<div align="center" >
-    <h1 > ***⚡Hi, I'm Thiago***</h1>
-
-<div align="center">
-    <img width="70" height="70" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-    <img width="70" height="70" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-    <img width="70" height="70" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
-    
-</div>
-<br/>
-<div class="person-container" style = " .person-container {
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Animación de Persona Saltando</title>
+<style>
+    .person-container {
         position: relative;
         width: 100px;
         height: 200px;
@@ -86,6 +81,26 @@
         50% {
             transform: rotate(45deg);
         }
-    }">
+    }
+</style>
+</head>
+<body>
+<div class="person-container">
     <div class="person"></div>
 </div>
+    <br/>
+<div align="center" >
+    <h1 > ***⚡Hi, I'm Thiago***</h1>
+
+<div align="center">
+    <img width="70" height="70" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    <img width="70" height="70" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+    <img width="70" height="70" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
+    
+</div>
+<br/>
+</body>
+</html>
+
+
+
