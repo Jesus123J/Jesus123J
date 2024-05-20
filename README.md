@@ -10,20 +10,6 @@
     
 </div>
 <br/>
-<div class="avatar-container" style="position: relative; width: 100px; height: 100px; animation: jump 1s infinite alternate;">
-    <div class="avatar" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 60px; height: 60px; background-image: url('ruta/a/tu/imagen.png'); background-size: cover; border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); animation: jump 1s infinite alternate;"></div>
+<div style= "Backgroup-color = red , width = 90 , higth = 90">
+    
 </div>
-
-<style>
-    @keyframes jump {
-        0%, 100% {
-            transform: translateY(0);
-        }
-        50% {
-            transform: translateY(-20px);
-        }
-    }
-</style>
-
-
-
