@@ -33,22 +33,5 @@
   - Flutter
   - Spring Boot
 
-## 🚀 Proyectos Destacados
-
-Aquí hay algunos proyectos en los que he trabajado:
-
-- **[Nombre de tu Proyecto 1](enlace-a-tu-proyecto)**: Una breve descripción del proyecto.
-- **[Nombre de tu Proyecto 2](enlace-a-tu-proyecto)**: Una breve descripción del proyecto.
-- **[Nombre de tu Proyecto 3](enlace-a-tu-proyecto)**: Una breve descripción del proyecto.
-
----
-
-## 📫 Conéctame
-
-- **[LinkedIn](tu-enlace-de-linkedin)**
-- **[Twitter](tu-enlace-de-twitter)**
-- **[GitHub](tu-enlace-de-github)**
-
----
 
 ¡Gracias por visitar mi perfil! Estoy emocionado de conectar y colaborar en proyectos interesantes.
