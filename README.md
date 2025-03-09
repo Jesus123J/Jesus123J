@@ -22,18 +22,7 @@
 ## 🚀 **Featured Projects**
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=best-project&theme=nightowl)](https://github.com/your-username/best-project)
-  
+
+[![Restaurant Project](https://github-readme-stats.vercel.app/api/pin/?username=Jesus123J&repo=restaurant_project&theme=nightowl&show_owner=true)](https://github.com/Jesus123J/restaurant_project.git)
+
 </div>
-
----
-
-## 🌟 **Lucete AI** 
-*Transforming code into intelligent solutions*
-
-```dart
-void main() {
-  final innovation = LuceteAI();
-  print(innovation.develop()); // 🚀 Prints: "Smart systems in action!"
-}
