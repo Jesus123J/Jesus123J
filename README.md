@@ -15,16 +15,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🚀 FullStack Developer at **IDevExpert**
-- 🛠️ I build web, mobile and desktop apps — from APIs to UI
-- 🌱 Always learning new tools and best practices
-- 💬 Ask me about **Java / Spring**, **Flutter**, **React** or **Django**
-- ⚡ Fun fact: I enjoy turning ideas into shipped products
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -63,17 +53,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesus123J&theme=tokyo-night&hide_border=true&line=22D3EE&point=22D3EE&color=22D3EE&bg_color=1A1B27" alt="activity graph" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [subcafe_manager_hsj](https://github.com/Jesus123J/subcafe_manager_hsj) | Gestión de préstamos, abonos y empleados por reportes | Java |
-| [reminder_app](https://github.com/Jesus123J/reminder_app) | App de escritorio para alarmas y recordatorios | Java |
-| [store_subcafe](https://github.com/Jesus123J/store_subcafe) | App de tienda multiplataforma | Flutter / Dart |
-| [fullstack-k8s-project](https://github.com/Jesus123J/fullstack-k8s-project) | Proyecto fullstack desplegado en Kubernetes | Python / K8s |
 
 ---
 
