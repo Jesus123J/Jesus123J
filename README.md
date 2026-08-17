@@ -37,31 +37,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jesus123J&show_icons=true&theme=tokyonight&hide_border=true&icon_color=22D3EE" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus123J&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jesus123J&theme=tokyonight&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesus123J&theme=tokyo-night&hide_border=true&line=22D3EE&point=22D3EE&color=22D3EE&bg_color=1A1B27" alt="activity graph" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Jesus123J">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center"><i>⭐️ From <a href="https://github.com/Jesus123J">Jesus123J</a></i></p>
